@@ -3,6 +3,7 @@ Sometimes it feels like all we do is sit at our computers all day and code in R.
 ## Getting started with Git and GitHub
 
 ![xkcd webcomic](https://imgs.xkcd.com/comics/git.png)
+
 [xkcd](https://xkcd.com/1597/)
 
 Everyone hates Git. Here's some reasons why people use it anyway and how you can use it, too.
@@ -12,6 +13,8 @@ Everyone hates Git. Here's some reasons why people use it anyway and how you can
 [Git and GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 
 ## Some other labs doing cool stuff on GitHub
+
+For inspiration...
 
 [Baum lab](https://github.com/baumlab)
 
