@@ -12,6 +12,12 @@ Everyone hates Git. Here's some reasons why people use it anyway and how you can
 
 [Git and GitHub learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
 
+## OK, that was nice background, but what do I do??
+
+Think of GitHub as a combination of Dropbox and Microsoft's "track changes." You can store a file locally on your computer and remotely in the cloud, and you can sync changes between them just like Dropbox or Google Drive. But Git tracks all the changes that were made between syncs (like track changes) so you can see what's new and decide what to do if there are conflicting versions.
+
+Very soon I will write a short tutorial explaining how to do basic things in GitHub.
+
 ## Some other labs doing cool stuff on GitHub
 
 For inspiration...
